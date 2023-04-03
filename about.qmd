@@ -1,7 +1,15 @@
 ---
 title: "About"
+about:
+  template: solana
 ---
 
 I studied cognitive science and data science at UCSD as an undergraduate. I am interested in discovering patterns that underlie healthcare and social data by applying data analysis methods and machine learning models.
 
 My resume can be found [here](Resume-Zikang_Chen.pdf).
+
+## Hobbies
+In my free time, I play the flute in the orchestra. I also enjoy photography, playing badminton, and travelling around the world.  
+
+![milkyway](milkyway.jpg)
+I took this photo on Twin Lakes in Mammoth Mountain.

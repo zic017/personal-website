@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here is a list of projects that I have worked on.\n\nImage Classification with Optimized CNN\nreport; code(part 1); code(part 2)\nPlaying Dinosaur Game with Eye Blinks\ncode; presentation"
+    "text": "Here is a list of projects that I have worked on.\n\nImage Classification with Optimized CNN\nreport; code(part 1); code(part 2)\n\n\n\nPlaying Dinosaur Game with Eye Blinks\nrepository; slide; presentation\n\n\n\nRating Prediction from Clothing Fit Data\nreport; code \n\n\nPredicting Heart Disease from Health Data\nnotebook\n\n\n\nZooSeeker - Tour Guide App\nrepository \n\n\nFacial Age Recognition\nreport; code\n\n\n\nFactors that Influence COVID Mortality Rate\nnotebook; presentation"
   },
   {
     "objectID": "projects/CNN.html",
@@ -26,5 +26,12 @@
     "title": "My Post",
     "section": "",
     "text": "Text text …\nImage Classification with Optimized CNN report code(part 1) code(part 2)"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About",
+    "section": "Hobbies",
+    "text": "Hobbies\nIn my free time, I play the flute in the orchestra. I also enjoy photography, playing badminton, and travelling around the world.\n I took this photo on Twin Lakes in Mammoth Mountain."
   }
 ]

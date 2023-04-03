@@ -1,16 +1,44 @@
 ---
 title: "Projects"
+about:
+  template: solana
 ---
 
 Here is a list of projects that I have worked on.
 
-* Image Classification with Optimized CNN  
+#### Image Classification with Optimized CNN  
 [report](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/COGS%20181%20Final%20Report.pdf); 
 [code(part 1)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part1.ipynb); 
-[code(part 2)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part2.ipynb)
+[code(part 2)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part2.ipynb)  
+![CNN](CNN.png)
 
-* Playing Dinosaur Game with Eye Blinks  
+#### Playing Dinosaur Game with Eye Blinks  
 [repository](https://github.com/zic017/COGS-189-Dinosaur-Game-with-Eyeblink); 
-[presentation](https://docs.google.com/presentation/d/1CflkallYYt1rte-0YwxyGp3oEJVEuXFv_amEt8YX5hg/edit#slide=id.p)
+[slide](https://docs.google.com/presentation/d/1CflkallYYt1rte-0YwxyGp3oEJVEuXFv_amEt8YX5hg/edit#slide=id.p);
+[presentation](https://www.youtube.com/watch?v=Fa0bLV2qnts)
+{{< video https://www.youtube.com/embed/qMAVhjj_hBw >}}
 
-* 
+
+#### Rating Prediction from Clothing Fit Data  
+[report](https://github.com/zic017/CSE158_Assignment2_Rating_Prediction_of_Clothes/blob/main/Assignment2_report.pdf); 
+[code](https://github.com/zic017/CSE158_Assignment2_Rating_Prediction_of_Clothes/blob/main/Model%20selection.ipynb)
+![reviews](reviews.png)
+
+#### Predicting Heart Disease from Health Data  
+[notebook](https://github.com/zic017/Predicting-Heart-Disease-from-Health-Information-COGS-118A/blob/main/FinalProject_group011.ipynb)  
+![ROC curve](disease.png)
+
+#### ZooSeeker - Tour Guide App
+[repository](https://github.com/zic017/ZooSeeker-CSE-110-Team-47)
+![ZooSeeker](zooseeker.jpg)
+
+
+#### Facial Age Recognition  
+[report](https://github.com/zic017/Facial-Age-Recognition-COGS-118B-Final-Project/blob/main/COGS%20118B%20Final%20Project%20Paper%20Group%209.pdf);
+[code](https://github.com/zic017/Facial-Age-Recognition-COGS-118B-Final-Project/blob/main/COGS_118B_Final_Project.ipynb)  
+![PCA](PCA.png)
+
+#### Factors that Influence COVID Mortality Rate  
+[notebook](https://github.com/COGS108/Group016-Wi22/blob/master/FinalProjectGroup016-Wi22.ipynb);
+[presentation](https://drive.google.com/file/d/1388LTXLt_0V6-k3owbR9Wbxuaj3qzAYu/view)
+![COVID](covid.png)
