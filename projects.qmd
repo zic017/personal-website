@@ -1,14 +1,16 @@
 ---
 title: "Projects"
-listing:
-  contents: posts
-
 ---
 
 Here is a list of projects that I have worked on.
 
-* Image Classification with Optimized CNN
-[report](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/COGS%20181%20Final%20Report.pdf)
-[code(part 1)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part1.ipynb)
+* Image Classification with Optimized CNN  
+[report](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/COGS%20181%20Final%20Report.pdf); 
+[code(part 1)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part1.ipynb); 
 [code(part 2)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part2.ipynb)
 
+* Playing Dinosaur Game with Eye Blinks  
+[repository](https://github.com/zic017/COGS-189-Dinosaur-Game-with-Eyeblink); 
+[presentation](https://docs.google.com/presentation/d/1CflkallYYt1rte-0YwxyGp3oEJVEuXFv_amEt8YX5hg/edit#slide=id.p)
+
+* 
