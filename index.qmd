@@ -1,11 +1,23 @@
 ---
 title: "Zikang Chen"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/zic017
+    - icon: mailbox
+      text: e-mail
+      href: mailto:zic017@ucsd.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zikang-chen/
 ---
 
-This is a Quarto website.
+## Hello there!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a recent graduate from [UCSD](https://ucsd.edu) with a major in [Cognitive Science](https://cogsci.ucsd.edu) with specialization in Machine Learning and Neural Computation and a minor in [Computer Science](https://cse.ucsd.edu/).
 
-```{r}
-1 + 1
-```
+Welcome to my website!
+

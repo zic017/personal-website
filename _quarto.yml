@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Zikang Chen Website"
+  title: "Zikang Chen"
+  favicon: CZK.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
 
 format:
   html:

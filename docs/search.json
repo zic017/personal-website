@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I studied cognitive science and data science at UCSD as an undergraduate. I am interested in discovering patterns that underlie healthcare and social data by applying data analysis methods and machine learning models.\nMy resume can be found here."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zikang Chen",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a recent graduate from UCSD with a major in Cognitive Science with specialization in Machine Learning and Neural Computation and a minor in Computer Science.\nWelcome to my website!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a list of projects that I have worked on.\n\nImage Classification with Optimized CNN report code(part 1) code(part 2)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

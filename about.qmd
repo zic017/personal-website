@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+I studied cognitive science and data science at UCSD as an undergraduate. I am interested in discovering patterns that underlie healthcare and social data by applying data analysis methods and machine learning models.
 
-```{r}
-1 + 1
-```
+My resume can be found [here](Resume-Zikang_Chen.pdf).
