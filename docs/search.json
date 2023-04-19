@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Zikang Chen",
     "section": "",
-    "text": "I am a recent graduate from UCSD with a major in Cognitive Science with specialization in Machine Learning and Neural Computation and a minor in Computer Science.\nWelcome to my website!"
+    "text": "I am an incoming student to the Analytics Master’s program at the University of Southern California. I recently graduated from the University of California, San Diego with a major in Cognitive Science with specialization in Machine Learning and Neural Computation and a minor in Computer Science.\nWelcome to my website!"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here is a list of projects that I have worked on.\n\nImage Classification with Optimized CNN\nreport; code(part 1); code(part 2)\n\n\n\nPlaying Dinosaur Game with Eye Blinks\nrepository; slide; presentation\n\n\n\nRating Prediction from Clothing Fit Data\nreport; code \n\n\nPredicting Heart Disease from Health Data\nnotebook\n\n\n\nZooSeeker - Tour Guide App\nrepository \n\n\nFacial Age Recognition\nreport; code\n\n\n\nFactors that Influence COVID Mortality Rate\nnotebook; presentation"
+    "text": "Here is a list of projects that I have worked on.\n\nImage Classification with Optimized CNN\nreport; code(part 1); code(part 2)\n\n\n\nAnalysis of Movie Ratings\nreport; code \n\n\nPlaying Dinosaur Game with Eye Blinks\nrepository; slide; presentation\n\n\n\nRating Prediction from Clothing Fit Data\nreport; code \n\n\nPredicting Heart Disease from Health Data\nnotebook\n\n\n\nZooSeeker - Tour Guide App\nrepository \n\n\nFacial Age Recognition\nreport; code\n\n\n\nFactors that Influence COVID Mortality Rate\nnotebook; presentation"
   },
   {
     "objectID": "projects/CNN.html",

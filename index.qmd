@@ -9,7 +9,7 @@ about:
       href: https://github.com/zic017
     - icon: mailbox
       text: e-mail
-      href: mailto:zic017@ucsd.edu
+      href: mailto:zikangc@usc.edu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/zikang-chen/
@@ -17,7 +17,7 @@ about:
 
 ## Hello there!
 
-I am a recent graduate from [UCSD](https://ucsd.edu) with a major in [Cognitive Science](https://cogsci.ucsd.edu) with specialization in Machine Learning and Neural Computation and a minor in [Computer Science](https://cse.ucsd.edu/).
+I am an incoming student to the [Analytics](https://viterbigradadmission.usc.edu/programs/masters/msprograms/industrial-systems-engineering/ms-analytics/) Master’s program at the [University of Southern California](https://usc.edu/). I  recently graduated from the [University of California, San Diego](https://ucsd.edu) with a major in [Cognitive Science](https://cogsci.ucsd.edu) with specialization in Machine Learning and Neural Computation and a minor in [Computer Science](https://cse.ucsd.edu/).
 
 Welcome to my website!
 

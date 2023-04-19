@@ -12,6 +12,11 @@ Here is a list of projects that I have worked on.
 [code(part 2)](https://github.com/zic017/COGS181-CNN-Image-Classification/blob/main/CNN%20Image%20Classification%20on%20CIFAR-10%20part2.ipynb)  
 ![CNN](CNN.png)
 
+#### Analysis of Movie Ratings  
+[report](https://github.com/zic017/Analysis-of-Movie-Ratings/blob/main/Analysis-of-Movie-Ratings.pdf); 
+[code](https://github.com/zic017/Analysis-of-Movie-Ratings/blob/main/Analysis-of-Movie-Ratings.Rmd)
+![movies](movies.png)
+
 #### Playing Dinosaur Game with Eye Blinks  
 [repository](https://github.com/zic017/COGS-189-Dinosaur-Game-with-Eyeblink); 
 [slide](https://docs.google.com/presentation/d/1CflkallYYt1rte-0YwxyGp3oEJVEuXFv_amEt8YX5hg/edit#slide=id.p);
